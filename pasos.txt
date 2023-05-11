@@ -9,3 +9,6 @@ trabajando con git
 4 git commit -m "un mensaje descriptivo"
 
 5 git log para ver que fue lo que se cambio y en que fecha es un control de versiones o historial
+
+6 git checkout "nombre de la rama" es para cambiar de versiones del archivos 
+
