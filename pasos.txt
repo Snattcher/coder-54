@@ -2,7 +2,7 @@ trabajando con git
 
 1 git init para iniziar git en el proyecto
 
-2 git stats es para chekear que esta todo bien o mal 
+2 git status es para chekear que esta todo bien o mal 
 
 3 git add .  esto permite agregar las modificaciones que hayamos hecho
 
